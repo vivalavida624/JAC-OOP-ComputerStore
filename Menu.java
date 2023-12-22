@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class Menu {
 
-
-
     public static void mainMenu(){
         System.out.println("======Main Menu======");
         System.out.println("Select your option");
